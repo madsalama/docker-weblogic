@@ -1,7 +1,6 @@
 # weblogic-docker
 Containerized Weblogic in Docker with deployment scripts.
 
-### Install WebLogic on Docker:
 - Make sure all required packages exist in their respective directory:
   - oraclelinux-slim-7/oraclelinux-7-slim-rootfs.tar.xz
   - jre-8u171/server-jre-8u171-linux-x64.tar.gz
