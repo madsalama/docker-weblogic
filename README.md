@@ -1,4 +1,4 @@
-# dockerize-weblogic
+# docker-weblogic
 Containerized Weblogic in Docker with deployment scripts.
 
 - Make sure all required packages exist in their respective directory:
